@@ -1,0 +1,30 @@
+h2 {
+    background-color: #607d8b;
+    padding: 5px;
+}
+
+.title{
+ 
+    
+    font-size: 65px;;
+}
+
+
+#myPic {
+    width: 250px;
+    height: 250px;
+    border-radius: 200px;
+    padding: 5px;
+  
+}
+.img-container {
+    vertical-align: middle;
+}
+#footer {
+    background-color: black;
+    color: whitesmoke;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
